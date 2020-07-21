@@ -23,5 +23,3 @@
 <p align="left" >
 <a href="https://medium.com/@grajeshr97"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"/></a>&nbsp;<a href="https://www.linkedin.com/in/rajesh-g97/"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"/> 
 </p>
-
--->
