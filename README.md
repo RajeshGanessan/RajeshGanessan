@@ -10,7 +10,7 @@
 
 - 🥳 Exploring new tools/Tech in Test Automation
 
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Improving Product quality**
 
 - 💬 Ping me about **Test Automation**, **Quality Assurance**,
 
