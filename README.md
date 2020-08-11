@@ -6,7 +6,7 @@
 
 - ⚙️ I work primarily in : **Java**.
 
-- 🌍 I'm mostly active within the **Selenium Community**
+- 🌍 Learn.Explore.Share
 
 - 🥳 Exploring new tools/Tech in Test Automation
 
