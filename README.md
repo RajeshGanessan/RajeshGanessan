@@ -2,7 +2,7 @@
 
 #### I'm a SDET/QA working in Bangalore,India
 
-- 🏢 I'm currently working at [**Let's Venture**](https://letsventure.com/)
+- 🏢 I'm currently working at [**Khoros**](https://khoros.com)
 
 - ⚙️ I work primarily in : **Java**.
 
